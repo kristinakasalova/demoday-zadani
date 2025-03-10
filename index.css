@@ -7,7 +7,7 @@ body{
 }
 .nav{
     min-height: 72px;
-    background-color: #f1f;
+    background-color: #ffffff;
     width: 100vw;
 }
  .nav .logo {
@@ -30,14 +30,14 @@ body{
         max-width: 100vw;
         object-fit: cover;
         max-height: 673px;
-        z-index: -1;
+
 }
 
 .figure-text {
     position:absolute;
     top:50%;
     left:50%;
-    transform:translate(-50%,-50%);
+    transform:translate(0%,0%);
     -ms-transform:translate(-50%,-50%)}
 
 h1  { 
@@ -116,11 +116,14 @@ h2{
 
 .offer-p{
     position:absolute;
-    top:50%;
-    left:50%;
-    transform:translate(-100%,-100%);
+    top:90%;
+    left:10%;
+    /* transform:translate();
     -ms-transform:translate(-50%,-50%);
-    margin: o 40%;
+    margin: o 40%; */
+    font-weight: 500;
+font-size: 14px;
+color: #ffffff;
 }
 
 .offer-h4{
@@ -129,6 +132,12 @@ font-weight: 700;
 font-size: 36px;
 color: #ffffff;
 text-align: center;
+position:absolute;
+top:50%;
+left:10%;
+/* transform:translate();
+-ms-transform:translate(-50%,-50%);
+margin: o 40%; */
 }
 
 .blog-section {
