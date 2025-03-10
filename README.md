@@ -1,18 +1,4 @@
-# DEMODay MirandaMedia
 
-Vítám Tě u zkušebního zadání pro přijímací pohovor k nám do Mirandy!
-
-Níže nalezneš veškeré potřebné informace. Neváhej, pokud nebudeš vědět kudy kam, použít rady a nápady strýčka Googla, ale klidně i některého ze zkušenějších potenciálních kolegů. Určitě Ti rádi ukážou tu správnou cestu, nejsme přeci ve škole. Důležité je problém aktivně vyřešit, nikoliv zatajit nebo obejít. Nikdo z nás nikdy nebude umět všechno a i seniorní vývojáři řešení hledají.
-
-## Grafický návrh
-
-Grafický návrh je část staršího projektu, konkrétně pouze Homepage jednoduchého e-shopu, zabývajícího se prodejem investičních kovů.
-
-URL: [Figma.com](https://www.figma.com/file/mNSNesuEHkSvwnZHsBwLxt/DemoDay?node-id=0%3A1)
-
-## Technologie
-
-K realizaci zadání prosím nepoužívej žádné frameworky ani knihovny. Nepotřebuješ ani jQuery, Bootstrap ani nic jim podobného. Používej HTML, CSS a čistý (nebo také Vanilla) JavaScript. Pokud jsi zvyklý na CSS preprocesor, jeho použití je samozřejmě vítáno.
 
 ## Zadání
 
